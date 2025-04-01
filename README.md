@@ -13,3 +13,5 @@ TODOS:
 - Check model saving and loading is working correctly.
 - Maybe remove UCI firewall dataset and CICIDS2017 dataset (as they maybe shouldn't be in the package itself?)
 - Clean up and check code documentation is all okay enough?
+- Add paper references to this readme
+- Set up licence and referencing stuff?
