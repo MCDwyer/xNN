@@ -7,3 +7,9 @@ Tested on python 3.8.10, 3.10.13, 3.12.1, 3.12.3, 3.12.7
 Packages used:  
 - numpy
 - scipy (for the UCI firewall dataset)
+
+
+TODOS:
+- Check model saving and loading is working correctly.
+- Maybe remove UCI firewall dataset and CICIDS2017 dataset (as they maybe shouldn't be in the package itself?)
+- Clean up and check code documentation is all okay enough?
