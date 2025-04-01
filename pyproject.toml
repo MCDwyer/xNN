@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "xnn"
+version = "0.1.0"
+description = "A package implementing the nearest neighbour with bandit feedback and hierarchical nearest neighbour algorithms from Pasteris et al., alongside navigating nets for faster nearest neighbour search, and KNN with UCB, KNN with KL UCB and Slivkin's contextual bandits with similarity information for benchmarking. Additionally, includes an implementation of the dynamic ternary tree rebalancing from Matsuzaki and Morihata."
+authors = [
+    { name="Madeleine Dwyer", email="dwyer.m.c@outlook.com" }
+]
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.0"
+dependencies = [
+    "numpy",
+    "scipy"
+]
+
+[project.urls]
+Homepage = "https://github.com/MCDwyer/xnn"
