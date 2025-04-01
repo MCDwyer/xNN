@@ -15,3 +15,5 @@ TODOS:
 - Clean up and check code documentation is all okay enough?
 - Add paper references to this readme
 - Set up licence and referencing stuff?
+- Set up basic tutorial jupyter notebook potentially? showing how to use the bandits?
+- look at combining/making compatible to use with the existing contextual bandit packages?
